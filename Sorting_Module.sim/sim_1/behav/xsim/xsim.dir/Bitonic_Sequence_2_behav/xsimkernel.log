@@ -1,0 +1,7 @@
+Running: xsim.dir/Bitonic_Sequence_2_behav/xsimk.exe -simmode gui -wdb Bitonic_Sequence_2_behav.wdb -simrunnum 0 -socket 59093
+Design successfully loaded
+Design Loading Memory Usage: 6432 KB (Peak: 6432 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 7156 KB (Peak: 7156 KB)
+Simulation CPU Usage: 31 ms

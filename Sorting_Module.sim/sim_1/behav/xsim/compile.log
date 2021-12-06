@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Bitonic_Sequence_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bitonic_Sequence_4
+INFO: [VRFC 10-311] analyzing module Bitonic_Sequence_8
+INFO: [VRFC 10-311] analyzing module Bitonic_Sequence_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Comparator_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comparator_4bit
+INFO: [VRFC 10-311] analyzing module Comparator_16bit
+INFO: [VRFC 10-311] analyzing module Comparator_2bit
+INFO: [VRFC 10-311] analyzing module Comparator_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Logic_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module And_1bit
+INFO: [VRFC 10-311] analyzing module And_32bit
+INFO: [VRFC 10-311] analyzing module Or_3_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Sorting_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sorting_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Swap_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Swap
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/ascendingSort_Module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ascendingSort_4
+INFO: [VRFC 10-311] analyzing module ascendingSort_8
+INFO: [VRFC 10-311] analyzing module ascendingSort_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sim_1/new/simSource.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbentch

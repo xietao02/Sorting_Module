@@ -1,0 +1,28 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 41508c2151e04a1abc11f5788d3b6be6 --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot testbentch_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.testbentch xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Comparator_4bit
+Compiling module xil_defaultlib.Comparator_16bit
+Compiling module xil_defaultlib.Comparator_2bit
+Compiling module xil_defaultlib.Comparator_32bit
+Compiling module xil_defaultlib.And_1bit
+Compiling module xil_defaultlib.And_32bit
+Compiling module xil_defaultlib.Or_3_32bit
+Compiling module xil_defaultlib.Swap
+Compiling module xil_defaultlib.Bitonic_Sequence_4
+Compiling module xil_defaultlib.ascendingSort_4
+Compiling module xil_defaultlib.Bitonic_Sequence_8
+Compiling module xil_defaultlib.ascendingSort_8
+Compiling module xil_defaultlib.Bitonic_Sequence_16
+Compiling module xil_defaultlib.ascendingSort_16
+Compiling module xil_defaultlib.Sorting_16
+Compiling module xil_defaultlib.testbentch
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbentch_time_synth

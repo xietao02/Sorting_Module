@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"testbentch_time_synth.v" \
+"../../../../../Sorting_Module.srcs/sources_1/new/Bitonic_Sequence_Module.v" \
+"../../../../../Sorting_Module.srcs/sources_1/new/Comparator_Module.v" \
+"../../../../../Sorting_Module.srcs/sources_1/new/Logic_Module.v" \
+"../../../../../Sorting_Module.srcs/sources_1/new/Sorting_Module.v" \
+"../../../../../Sorting_Module.srcs/sources_1/new/Swap_Module.v" \
+"../../../../../Sorting_Module.srcs/sources_1/new/ascendingSort_Module.v" \
+"../../../../../Sorting_Module.srcs/sim_1/new/simSource.v" \
+
+# Do not sort compile order
+nosort

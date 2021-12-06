@@ -1,0 +1,12 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.sim/sim_1/impl/timing/xsim/testbentch_time_impl.v,1638701764,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Bitonic_Sequence_Module.v,,IOBUF_HD2;IOBUF_UNIQ_BASE_;TestInborad;blk_mem_gen_generic_cstr;blk_mem_gen_prim_width;blk_mem_gen_prim_wrapper_init;blk_mem_gen_top;blk_mem_gen_v8_2;blk_mem_gen_v8_2_synth;glbl;lcd_draw;lcd_init;lcd_module;lcd_rom;touch_module,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sim_1/new/simSource.v,1638701677,verilog,,,,testbentch,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Bitonic_Sequence_Module.v,1638601016,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Comparator_Module.v,,Bitonic_Sequence_16;Bitonic_Sequence_4;Bitonic_Sequence_8,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Comparator_Module.v,1638669780,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Logic_Module.v,,Comparator_16bit;Comparator_2bit;Comparator_32bit;Comparator_4bit,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Logic_Module.v,1638538666,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Sorting_Module.v,,And_1bit;And_32bit;Or_3_32bit,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Sorting_Module.v,1638606695,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Swap_Module.v,,Sorting_16,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/Swap_Module.v,1638668546,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/ascendingSort_Module.v,,Swap,,,,,,,,
+D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sources_1/new/ascendingSort_Module.v,1638606591,verilog,,D:/MyProgramme/Vivado/Sorting_Module/Sorting_Module.srcs/sim_1/new/simSource.v,,ascendingSort_16;ascendingSort_4;ascendingSort_8,,,,,,,,
